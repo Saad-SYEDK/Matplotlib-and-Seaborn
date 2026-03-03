@@ -1,2 +1,3 @@
-# Matplotlib
-Matplotlib tutorial from basics
+# Matplotlib and Seaborn
+
+Matplotlib and Seaborn tutorial from basics
