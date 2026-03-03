@@ -1,3 +1,3 @@
-# Data Visualization
+# Data Visualizaton
 
-DV is a key part of every analyst, is this repo we will see some examples of how we use python using matplotlib, seaborn to plot different types of graphs.
+Every Analyst has to work with Data Visualizaton, in this repo we will see some basics of visualizaiton using python with libraries like matplotlib and seaborn
